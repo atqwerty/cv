@@ -61,14 +61,15 @@ Achievements:
 * ACM 2016 participant
 
 Programming Languages
-:   **first-languages:** JS (including React (including React Native)), Angular
+
+   **first-languages:** JS (including React (including React Native)), Angular
     (Typescript), Python (ML applications and Django)
 
-:   **second-languages:** PHP, Golang
+   **second-languages:** PHP, Golang
 
-:   **Technologies:** Vim, Doom Emacs, Ricing, Git, Markdown, LaTeX
+   **Technologies:** Vim, Doom Emacs, Ricing, Git, Markdown, LaTeX
 
-:   Basic knowledge of C, C#, Java, SQL, Bashscript 
+   Basic knowledge of C, C#, Java, SQL, Bashscript 
 
 Talents:
 ----------------------------------------
