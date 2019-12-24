@@ -2,7 +2,7 @@ Denis Markitanov
 ============
 
 -------------------     ----------------------------
-1 MyAddress                    dmarkitanov@gmail.com
+dmarkitanov@gmail.com
 Almaty                               
 Kazakhstan                          +7 707 615 27 22
 -------------------     ----------------------------
