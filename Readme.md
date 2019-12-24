@@ -3,7 +3,7 @@ Denis Markitanov
 
 -------------------     ----------------------------
 1 MyAddress                    dmarkitanov@gmail.com
-Almaty                               @twitter_handle
+Almaty                               
 Kazakhstan                          +7 707 615 27 22
 -------------------     ----------------------------
 
@@ -11,8 +11,8 @@ Education
 ---------
 
 2016-2020
-:   **BSc, Computer Science**; KBTU
-    HomeTown (HomeTown)
+:   **BSc, Computer Science** KBTU
+    Almaty
 
 Experience
 ----------
@@ -20,6 +20,8 @@ Experience
 **Yvision**
 
 Junior frontend developer (June - July 2019)
+
+* Component for the [Yvision](https://yvision.kz/explore) Portal
 
 **Eurasian Bank of Development**
 
@@ -34,7 +36,7 @@ Technical Experience
 
 Things im proud of:
 
-    * [Chores] (https://github.com/atqwerty/ChoresWeb)
+    * [Chores](https://github.com/atqwerty/ChoresWeb)
     * [ChoresAndroid] (https://github.com/atqwerty/ChoresAndroid)
     * [LinuxUSBDriver] (https://github.com/atqwerty/SystemProgrammingProject
     * [ECGClassification] (https://github.com/atqwerty/MLproject)
