@@ -31,53 +31,50 @@ Intern (August 2018)
 * Provided help with documentary to neighbor accounting department
 * Programmed a website for internal network of bank (confidential)
 
+**Educational center: MAST**
+
+Teacher (June 2018)
+
+* Teaching programming principles (C#) to middle school students
+
+**Math Tutor**
+
+* Prepeared middle schoolers for NIS exam
+
 Technical Experience
 --------------------
 
 Things im proud of:
-
     * [Chores](https://github.com/atqwerty/ChoresWeb)
-    * [ChoresAndroid] (https://github.com/atqwerty/ChoresAndroid)
-    * [LinuxUSBDriver] (https://github.com/atqwerty/SystemProgrammingProject
-    * [ECGClassification] (https://github.com/atqwerty/MLproject)
+    * [ChoresAndroid](https://github.com/atqwerty/ChoresAndroid)
+    * [LinuxUSBDriver](https://github.com/atqwerty/SystemProgrammingProject)
+    * [ECGClassification](https://github.com/atqwerty/MLproject)
+    * private repo
+    * private repo
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Achievements:
+    * Hacktoberfest 2019 participant
+    * Hackday 2018 participant
+    * Huawei Assistant Certifiacation participant (2018)
+    * ACM 2016 participant
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **first-languages:** JS (including React (including React Native)), Angular
+    (Typescript), Python (ML applications and Django)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **second-languages:** PHP, Golang
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Technologies:** Vim, Doom Emacs, Ricing, Git, Markdown, LaTeX
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of C, C#, Java, SQL, Bashscript 
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Talents:
 ----------------------------------------
 
-* Human Languages:
+* Languages:
+     * English (Advanced)
+     * Russian (Fluent)
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* GPA ~3.0
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* [Github](https://github.com/atqwerty)
