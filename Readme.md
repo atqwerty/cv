@@ -45,18 +45,20 @@ Technical Experience
 --------------------
 
 Things im proud of:
-    * [Chores](https://github.com/atqwerty/ChoresWeb)
-    * [ChoresAndroid](https://github.com/atqwerty/ChoresAndroid)
-    * [LinuxUSBDriver](https://github.com/atqwerty/SystemProgrammingProject)
-    * [ECGClassification](https://github.com/atqwerty/MLproject)
-    * private repo
-    * private repo
+
+* [Chores](https://github.com/atqwerty/ChoresWeb)
+* [ChoresAndroid](https://github.com/atqwerty/ChoresAndroid)
+* [LinuxUSBDriver](https://github.com/atqwerty/SystemProgrammingProject)
+* [ECGClassification](https://github.com/atqwerty/MLproject)
+* private repo
+* private repo
 
 Achievements:
-    * Hacktoberfest 2019 participant
-    * Hackday 2018 participant
-    * Huawei Assistant Certifiacation participant (2018)
-    * ACM 2016 participant
+
+* Hacktoberfest 2019 participant
+* Hackday 2018 participant
+* Huawei Assistant Certifiacation participant (2018)
+* ACM 2016 participant
 
 Programming Languages
 :   **first-languages:** JS (including React (including React Native)), Angular
