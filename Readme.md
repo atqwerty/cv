@@ -1,55 +1,43 @@
-Johnny Coder
+Denis Markitanov
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                    dmarkitanov@gmail.com
+Almaty                               @twitter_handle
+Kazakhstan                          +7 707 615 27 22
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+2016-2020
+:   **BSc, Computer Science**; KBTU
     HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Yvision**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Junior frontend developer (June - July 2019)
 
-* First item
+**Eurasian Bank of Development**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Intern (August 2018)
 
-**That Other Job You Had**
-
-Also with a short description.
+* Provided help to chief sysadmin in network device settings (modems, switches ePrinters)
+* Provided help with documentary to neighbor accounting department
+* Programmed a website for internal network of bank (confidential)
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Things im proud of:
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * [Chores] (https://github.com/atqwerty/ChoresWeb)
+    * [ChoresAndroid] (https://github.com/atqwerty/ChoresAndroid)
+    * [LinuxUSBDriver] (https://github.com/atqwerty/SystemProgrammingProject
+    * [ECGClassification] (https://github.com/atqwerty/MLproject)
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
