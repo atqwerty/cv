@@ -48,9 +48,10 @@ Things im proud of:
 
 * [Chores](https://github.com/atqwerty/ChoresWeb)
 * [ChoresAndroid](https://github.com/atqwerty/ChoresAndroid)
+* [ChoresBackend](https://github.com/atqwerty/choresBackend)
 * [LinuxUSBDriver](https://github.com/atqwerty/SystemProgrammingProject)
 * [ECGClassification](https://github.com/atqwerty/MLproject)
-* private repo
+* [TurkeyMapEarthquakePredictor](https://github.com/atqwerty/ml2019Practice) (final->main.py)
 * private repo
 
 Achievements:
